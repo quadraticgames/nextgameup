@@ -9,10 +9,23 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/space-grotesk": "^0.2.3",
+    "@expo/metro-runtime": "~4.0.0",
+    "@expo/vector-icons": "^14.0.4",
+    "@expo/webpack-config": "~18.0.1",
+    "@xmldom/xmldom": "^0.9.6",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
     "expo": "~52.0.17",
+    "expo-font": "~13.0.1",
+    "expo-splash-screen": "^0.29.16",
     "expo-status-bar": "~2.0.0",
+    "express": "^4.21.2",
     "react": "18.3.1",
-    "react-native": "0.76.3"
+    "react-dom": "18.3.1",
+    "react-native": "0.76.3",
+    "react-native-web": "~0.19.13",
+    "expo-updates": "~0.26.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

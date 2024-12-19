@@ -1,0 +1,14 @@
+- Limit to games rated 5 or higher
+- Create a separate variables file for game year, min review, etc.
+- Style app in dark mode
+- Use a different background image
+- Use a different font
+- Use a different color scheme
+- Add a loading screen
+- Add a dice roll sound
+- Add a dice roll animation
+- Test on Android
+- Add links to game page
+- Publish to GitHub
+- Add a README
+- add link to boardgamegeek
